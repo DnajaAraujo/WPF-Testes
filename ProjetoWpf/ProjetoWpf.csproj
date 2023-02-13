@@ -6,4 +6,11 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Data\Model\" />
+    <Folder Include="Data\Gerenciadores\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="LinqToSql\" />
+  </ItemGroup>
+
 </Project>

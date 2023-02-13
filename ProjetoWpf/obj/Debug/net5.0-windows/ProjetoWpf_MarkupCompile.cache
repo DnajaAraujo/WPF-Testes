@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\DNAJA\source\repos\ProjetoWpf\obj\Debug\net5.0-windows\
+C:\Users\DNAJA\source\repos\WPF-Testes\ProjetoWpf\obj\Debug\net5.0-windows\
 ProjetoWpf
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-C:\Users\DNAJA\source\repos\ProjetoWpf\App.xaml
-11407045341
+C:\Users\DNAJA\source\repos\WPF-Testes\ProjetoWpf\App.xaml
+2251506894
 
-5-155472123
+7-1425121048
 193-1891726104
-MainWindow.xaml;
+MainWindow.xaml;Views\WinPrincipal.xaml;
 
 False
 

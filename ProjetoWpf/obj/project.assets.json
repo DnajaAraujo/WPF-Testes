@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DNAJA\\source\\repos\\ProjetoWpf\\ProjetoWpf.csproj",
+      "projectUniqueName": "C:\\Users\\DNAJA\\source\\repos\\WPF-Testes\\ProjetoWpf\\ProjetoWpf.csproj",
       "projectName": "ProjetoWpf",
-      "projectPath": "C:\\Users\\DNAJA\\source\\repos\\ProjetoWpf\\ProjetoWpf.csproj",
+      "projectPath": "C:\\Users\\DNAJA\\source\\repos\\WPF-Testes\\ProjetoWpf\\ProjetoWpf.csproj",
       "packagesPath": "C:\\Users\\DNAJA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DNAJA\\source\\repos\\ProjetoWpf\\obj\\",
+      "outputPath": "C:\\Users\\DNAJA\\source\\repos\\WPF-Testes\\ProjetoWpf\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DNAJA\\AppData\\Roaming\\NuGet\\NuGet.Config",

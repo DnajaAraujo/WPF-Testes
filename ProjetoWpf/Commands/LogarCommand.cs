@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProjetoWpf.Views;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,13 +16,15 @@ namespace ProjetoWpf.Commands
 
         public bool CanExecute(object parameter)
         {
+            // validação
             return true;
         }
 
         public void Execute(object parameter)
         {
-            string senha = (parameter as PasswordBox).Password;
-            MessageBox.Show("Sua senha é: " + senha);
+            var telaPrincipal = new WinPrincipal();
+            telaPrincipal.Show();
+            Helper.Helpers.FecharTelaLogin();
         }
     }
 }
